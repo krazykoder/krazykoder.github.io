@@ -1,2 +1,4 @@
 # krazykoder.github.io
-my personal website
+my personal website. 
+
+I am krazykoder.
