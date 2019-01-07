@@ -1,0 +1,9 @@
+site_name: My Awesome Website
+
+theme: 
+    name: material
+
+site_url: https://krazykoder.github.io
+
+markdown_extensions:
+- codehilite
