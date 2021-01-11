@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Jekyll from Krazy"
+title:  "Hello Jekyll from Sab"
 author: sab
 categories: [ helloworld, getting started ]
 image: assets/images/15.jpg
