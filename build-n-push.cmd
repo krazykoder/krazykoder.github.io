@@ -1,6 +1,6 @@
-start /wait build.cmd 
-
 @echo off
+rem build.cmd
+
 rem "git commit and push" 
 
 git add --all
