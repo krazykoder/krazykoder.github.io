@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World from Krazy"
-author: krazykoder
+author: krazy
 categories: [ helloworld, getting started ]
 image: assets/images/16.jpg
 ---

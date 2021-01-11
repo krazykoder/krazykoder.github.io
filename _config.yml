@@ -13,8 +13,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  Krazy:
-    name: Krazy
+  krazy:
+    name: Krazy Koder
     display_name: KrazyKoder    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
