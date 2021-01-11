@@ -15,9 +15,11 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
-    gem 'kramdown'
     gem 'rouge'
-	gem 'jekyll-admin'
+    gem 'jekyll-admin'
+    gem "rack"
+    gem "kramdown", ">= 2.3.0"
+
 end
 
 gem "jekyll", "~> 3.8"
