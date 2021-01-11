@@ -3,9 +3,8 @@ layout: post
 title:  "Hello World from Krazy"
 author: krazykoder
 categories: [ helloworld, getting started ]
-image: /assets/images/16.jpg
+image: assets/images/16.jpg
 ---
-# 2021-01-12-hello-Jekyll
 
 Hello I am Medium post on jekyll.
 
