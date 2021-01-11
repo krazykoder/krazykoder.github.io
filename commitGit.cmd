@@ -1,4 +1,4 @@
-start /wait build.cmd
+rem start /wait build.cmd
 @echo off
 rem build.cmd
 
