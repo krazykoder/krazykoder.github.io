@@ -4,6 +4,7 @@ title:  "Hello World from Krazy"
 author: krazy
 categories: [ helloworld, getting started ]
 image: assets/images/16.jpg
+comments: false
 ---
 
 Hello I am Medium post on jekyll.
