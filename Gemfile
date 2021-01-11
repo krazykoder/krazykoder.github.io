@@ -18,7 +18,8 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-admin'
     gem "rack"
-    gem "kramdown", ">= 2.3.0"
+    gem "kramdown"
+    gem "kramdown-parser-gfm"
 
 end
 
