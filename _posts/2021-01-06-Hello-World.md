@@ -8,7 +8,7 @@ image: assets/images/16.jpg
 
 Hello I am Medium post on jekyll.
 
-"# krazykoder"
+> # krazykoder
 
 ## Repo information 
 
