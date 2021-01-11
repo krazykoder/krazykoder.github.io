@@ -1,4 +1,4 @@
-start build.cmd 
+start /wait build.cmd 
 
 @echo off
 rem "git commit and push" 
