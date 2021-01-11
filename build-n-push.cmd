@@ -1,7 +1,8 @@
-rem "build website"
-bundle exec jekyll build
+start build.cmd 
 
-rem "commit and push"
+@echo off
+rem "git commit and push" 
+
 git add --all
 git commit -am "Changed file Commit."
 git push 
