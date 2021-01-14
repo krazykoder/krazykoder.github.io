@@ -44,4 +44,4 @@ class PalindromeCheckTest {
 
 }
 ```
-![](../assets/images/snap_task.png)
+![](../../assets/images/snap_task.png)
