@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Let's test spoilers"
-author: krazy
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
-featured: true
-hidden: true
+title: Let's test spoilers"
+weblogName: My Medium Blog
+postDate: 2021-01-13T17:54:35.8083715-08:00
+postStatus: draft
 ---
+
+<!--# The first mass-produced book to deviate from a rectilinear format-->
+<!--![](../assets/images/17.jpg)-->
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
@@ -20,8 +20,19 @@ The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe
 
 A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
 
+
 #### So how do we do spoilers?
 
 ```html
 <span class="spoiler">My hidden paragraph here.</span>
 ```
+
+</p>
+This Does not work
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXb3EKWsInQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</p>
+
+
+This is how we will work on embedding video. 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LXb3EKWsInQ/0.jpg)](https://youtu.be/LXb3EKWsInQ)
