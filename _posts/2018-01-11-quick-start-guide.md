@@ -27,12 +27,13 @@ A major clue to everything that truly happened was the scene that played next un
 <span class="spoiler">My hidden paragraph here.</span>
 ```
 
-</p>
-This Does not work
+<p>
+This will not work on Medium. Only Github.com/ Jekyll etc. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LXb3EKWsInQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </p>
 
 
 This is how we will work on embedding video. 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/LXb3EKWsInQ/0.jpg)](https://youtu.be/LXb3EKWsInQ)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/BHACKCNDMW8/0.jpg)](https://youtu.be/BHACKCNDMW8)
