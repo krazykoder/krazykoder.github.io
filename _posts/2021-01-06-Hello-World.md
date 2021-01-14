@@ -1,8 +1,10 @@
 ---
+title: Hello World from Krazy
 layout: post
-title:  "Hello World from Krazy"
 author: krazy
-categories: [ helloworld, getting started ]
+categories:
+- helloworld
+- getting started
 image: assets/images/16.jpg
 comments: false
 ---
@@ -46,3 +48,10 @@ class PalindromeCheckTest {
 }
 ```
 ![](../assets/images/snap_task.png)
+
+As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very.
+
+![](https://pocket-syndicated-images.s3.amazonaws.com/5eab1905d816c.jpg)
+
+
+The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
