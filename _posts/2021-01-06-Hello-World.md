@@ -15,8 +15,6 @@ Hello I am Medium post on jekyll.
 
 ## Repo information 
 
-![](../assets/images/snap_task.png)
-
 This repository is a collection of advanced vs primitive java differences. 
 
 ```java
@@ -49,7 +47,7 @@ class PalindromeCheckTest {
 
 }
 ```
-
+![](../assets/images/snap_task.png)
 
 As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very.
 
