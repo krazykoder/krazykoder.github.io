@@ -1,5 +1,5 @@
 ---
-title: Let's test spoilers"
+title: Let's test spoilers
 author: krazy
 image: assets/images/17.jpg
 postDate: 2021-01-13T17:54:35.8083715-08:00
