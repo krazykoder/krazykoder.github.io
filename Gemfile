@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
     gem 'rouge'
-    gem "rack"
+    gem "rack", ">= 2.1.4"
     gem "kramdown"
     gem "kramdown-parser-gfm"
 

@@ -52,7 +52,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-    rack (1.6.13)
+    rack (2.2.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -78,7 +78,7 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   kramdown-parser-gfm
-  rack
+  rack (>= 2.1.4)
   rouge
   wdm (>= 0.1.0)
 
